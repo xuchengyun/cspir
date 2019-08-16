@@ -1,4 +1,4 @@
-package skillp2.pq;
+package pq;
 
 import java.util.Arrays;
 import java.util.Comparator;

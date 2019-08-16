@@ -1,4 +1,4 @@
-package p1.chapter5.sortAlgorithm;
+package sortAlgorithm;
 
 // 依次比较相邻的两个元素
 public class BubbleSort {

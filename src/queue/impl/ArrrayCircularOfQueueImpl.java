@@ -1,6 +1,6 @@
-package p1.chapter9.queue.impl;
+package queue.impl;
 
-import p1.chapter9.queue.MyQueue;
+import queue.MyQueue;
 
 public class ArrrayCircularOfQueueImpl<E> implements MyQueue<E> {
     private E[] data;

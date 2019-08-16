@@ -1,6 +1,6 @@
 package amazon;
 
-import p1.chapter7.LinkedList.ListNode;
+import list.LinkedList.ListNode;
 
 public class _23_MergeKSortedList {
     public ListNode mergeKLists(ListNode[] lists) {

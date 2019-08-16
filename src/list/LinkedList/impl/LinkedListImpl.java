@@ -1,6 +1,6 @@
-package p1.chapter7.LinkedList.impl;
+package list.LinkedList.impl;
 
-import p1.chapter7.LinkedList.ILinkedList;
+import list.LinkedList.ILinkedList;
 
 public class LinkedListImpl<E> implements ILinkedList<E> {
 

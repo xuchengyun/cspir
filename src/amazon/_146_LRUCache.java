@@ -1,9 +1,8 @@
 package amazon;
 
-import p1.chapter7.LinkedList.ListNode;
+import list.LinkedList.ListNode;
 
 import java.util.HashMap;
-import java.util.List;
 
 public class _146_LRUCache {
 

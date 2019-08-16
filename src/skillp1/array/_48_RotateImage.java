@@ -1,7 +1,5 @@
 package skillp1.array;
 
-import p1.chapter4.Array;
-
 import java.util.Arrays;
 
 public class _48_RotateImage {

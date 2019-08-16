@@ -1,6 +1,6 @@
-package p1.chapter4.myList.impl;
+package list.arraylist.impl;
 
-import p1.chapter4.myList.IArrayList;
+import list.arraylist.IArrayList;
 
 import java.util.Arrays;
 

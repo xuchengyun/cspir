@@ -1,4 +1,4 @@
-package p1.chapter8.stack.impl;
+package stack.impl;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package skillp2.backtracking.leetcode;
+package backtracking.leetcode;
 
 import java.util.ArrayList;
 import java.util.Arrays;

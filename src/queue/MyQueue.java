@@ -1,4 +1,4 @@
-package p1.chapter9.queue;
+package queue;
 
 public interface MyQueue<E> {
 

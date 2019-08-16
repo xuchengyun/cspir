@@ -1,4 +1,4 @@
-package p1.chapter5.sortAlgorithm;
+package sortAlgorithm;
 
 import java.util.Comparator;
 

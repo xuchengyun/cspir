@@ -1,6 +1,6 @@
-package p1.chapter8.stack.impl;
+package stack.impl;
 
-import p1.chapter8.stack.IArrayStack;
+import stack.IArrayStack;
 
 import java.util.EmptyStackException;
 

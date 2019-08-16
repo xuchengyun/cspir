@@ -1,4 +1,4 @@
-package skillp2.greedy.leetcode;
+package greedy.leetcode;
 
 public class _55_JumpGame {
 

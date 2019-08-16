@@ -1,4 +1,4 @@
-package p1.chapter2;
+package wtf.chapter2;
 
 public class Result {
 }

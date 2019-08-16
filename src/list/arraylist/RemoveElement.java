@@ -1,4 +1,4 @@
-package p1.chapter4;
+package list.arraylist;
 
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {

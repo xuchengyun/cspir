@@ -1,6 +1,6 @@
-package p1.chapter8.stack.impl;
+package stack.impl;
 
-import p1.chapter8.stack.ILinkedListStack;
+import stack.ILinkedListStack;
 
 import java.util.LinkedList;
 

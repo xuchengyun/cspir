@@ -1,8 +1,6 @@
 package skillp1.list.leetcode;
 
-import p1.chapter7.LinkedList.ListNode;
-
-import java.util.List;
+import list.LinkedList.ListNode;
 
 public class _92_ReverseLinkedList {
 

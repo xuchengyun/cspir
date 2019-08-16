@@ -1,6 +1,6 @@
 package skillp1.list.leetcode;
 
-import p1.chapter7.LinkedList.ListNode;
+import list.LinkedList.ListNode;
 
 public class _21_MergeTwoSortedLists {
 

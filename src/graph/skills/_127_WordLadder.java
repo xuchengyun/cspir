@@ -1,7 +1,5 @@
 package graph.skills;
 
-import p1.chapter7.LinkedList.ListNode;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

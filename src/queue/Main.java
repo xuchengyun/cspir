@@ -1,8 +1,8 @@
-package p1.chapter9.queue;
+package queue;
 
-import p1.chapter9.queue.impl.ArrayOfQueueImpl;
-import p1.chapter9.queue.impl.ArrrayCircularOfQueueImpl;
-import p1.chapter9.queue.impl.LinkedListOfQueueImpl;
+import queue.impl.ArrayOfQueueImpl;
+import queue.impl.ArrrayCircularOfQueueImpl;
+import queue.impl.LinkedListOfQueueImpl;
 
 public class Main {
 

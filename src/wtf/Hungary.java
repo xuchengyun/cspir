@@ -1,4 +1,4 @@
-package skillp2;
+package wtf;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package skillp2.pq.leetcode;
+package pq.leetcode;
 
 import java.util.PriorityQueue;
 

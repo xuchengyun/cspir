@@ -1,4 +1,4 @@
-package p1.chapter4.myList;
+package list.arraylist;
 
 public interface IArrayList {
 

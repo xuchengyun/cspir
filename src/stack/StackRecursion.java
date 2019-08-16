@@ -1,4 +1,4 @@
-package p1.chapter8.stack;
+package stack;
 
 public class StackRecursion {
 

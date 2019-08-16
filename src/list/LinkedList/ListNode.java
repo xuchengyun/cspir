@@ -1,4 +1,4 @@
-package p1.chapter7.LinkedList;
+package list.LinkedList;
 
 public class ListNode {
     public int data;

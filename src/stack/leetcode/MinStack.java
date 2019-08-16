@@ -1,4 +1,4 @@
-package p1.chapter8.stack.leetcode;
+package stack.leetcode;
 
 import java.util.Stack;
 
